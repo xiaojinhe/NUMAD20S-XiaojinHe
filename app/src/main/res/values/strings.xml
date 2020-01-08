@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NUMAD20S-XiaojinHe</string>
+    <string name="about_string">About</string>
+    <string name="name_and_email">Xiaojin He; irisxjhe@gmail.com</string>
+    <string name="number_range_hint">number range</string>
+    <string name="generate_string">Generate</string>
+    <string name="welcome_string">Hello World!</string>
+    <string name="random_number">Random Number: %1$d</string>
+</resources>
